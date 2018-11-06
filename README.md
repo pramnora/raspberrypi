@@ -5,7 +5,7 @@ Raspberry Pi information
 
 ## The Current Raspberry Pi Model/(s) I own
 
-29th Nov 2018, I ordered from off Amazon.co.uk the 'latest' Raspberry Pi Model 3 B+; which is a 'single board computer' that I aim to use to learn coding/as well as, practice doing all kinds of other experiments relating to Networking/Electronics/-etc.; which are fields I still don't know, yet?
+29th Nov 2018, I ordered from off Amazon.co.uk the 'latest' Raspberry Pi Model 3 B+; which is a 'single board computer' that I aim to use to learn coding: C/Python/Scratch/Bash Scripting/-etc.; as well as, practice doing all kinds of other experiments relating to Networking/Electronics/-etc.; which are fields I still don't know, yet?
 
 -----
 
