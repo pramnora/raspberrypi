@@ -18,6 +18,9 @@ Subject: Networking
 Raspberry Pi 3 Boot and Network Test - (YouTube Channel Name: Richard Wenner)  
 https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s  
 
+Instructions on how to set up SSH/and, NodeJS to work on the Raspberry Pi  
+https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp  
+
 -----
 
 Subject: IoT/Internet of Things
