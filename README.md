@@ -13,17 +13,17 @@ Raspberry Pi information
 
 ### YouTube Videos...
 
-YouTube Channel Name: Richard Wenner
-
 Subject: Networking
 
-Raspberry Pi 3 Boot and Network Test  
+Raspberry Pi 3 Boot and Network Test - (YouTube Channel Name: Richard Wenner)  
 https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s
 
 Subject: IoT/Internet of Things
 
+Software  
 https://nodered.org/  
-Node Red MQTT on the Raspberry Pi  
+
+Node Red MQTT on the Raspberry Pi - (YouTube Channel Name: Richard Wenner)   
 https://www.youtube.com/watch?v=WxUTYzxIDns
 
 
