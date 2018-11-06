@@ -11,9 +11,9 @@ Raspberry Pi information
 
 ## Links...
 
-### YouTube Videos...
-
 Subject: Networking
+
+### YouTube Videos...
 
 Raspberry Pi 3 Boot and Network Test - (YouTube Channel Name: Richard Wenner)  
 https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s  
@@ -25,6 +25,8 @@ Subject: IoT/Internet of Things
 Software  
 https://nodered.org/  
 https://nodered.org/docs/hardware/raspberrypi  
+
+### YouTube Videos...
 
 Node Red MQTT on the Raspberry Pi - (YouTube Channel Name: Richard Wenner)   
 https://www.youtube.com/watch?v=WxUTYzxIDns
