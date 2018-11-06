@@ -16,7 +16,9 @@ Raspberry Pi information
 Subject: Networking
 
 Raspberry Pi 3 Boot and Network Test - (YouTube Channel Name: Richard Wenner)  
-https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s
+https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s  
+
+-----
 
 Subject: IoT/Internet of Things
 
