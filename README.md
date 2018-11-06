@@ -24,6 +24,7 @@ Subject: IoT/Internet of Things
 
 Software  
 https://nodered.org/  
+https://nodered.org/docs/hardware/raspberrypi  
 
 Node Red MQTT on the Raspberry Pi - (YouTube Channel Name: Richard Wenner)   
 https://www.youtube.com/watch?v=WxUTYzxIDns
