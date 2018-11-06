@@ -14,6 +14,8 @@ Raspberry Pi information
 Subject: Networking
 
 ### YouTube Videos...
+Raspberry Pi Networking 2 -  - (YouTube Channel Name: Richard Wenner)
+https://www.youtube.com/watch?v=jMCpRyD12Dw
 
 Raspberry Pi 3 Boot and Network Test - (YouTube Channel Name: Richard Wenner)  
 https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s  
