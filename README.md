@@ -17,7 +17,7 @@ YouTube Channel Name: Richard Wenner
 
 Subject: Networking
 
-Raspberry Pi 3 Boot and Network Test
+Raspberry Pi 3 Boot and Network Test  
 https://www.youtube.com/watch?v=RBuzacSUEf4&t=184s
 
 
