@@ -11,11 +11,11 @@ Raspberry Pi information
 - Scratch
 - Bash Scripting
 - NodeJS
-- etc.
+- etc.  
 ...as well as, practice doing all kinds of other experiments relating to:
 - Networking
 - Electronics
-- etc.
+- etc.  
 ...which are fields I still don't know, yet?
 
 -----
