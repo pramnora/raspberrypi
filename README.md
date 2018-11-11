@@ -26,12 +26,13 @@ Raspberry Pi information
 SSH, allows one to log in remotely from any other computer inside of your own Network.
 
 *Method 1...*    
-- download Putty
 - Raspberry Terminal: sudo raspi config (allows one to set up SSH)
+- download Putty (allows you to see/operate only the text based terminal)
+- download xming (allows you to see/operated the Windows, as well)
 
 *Method 2...*    
-- Windows 10 has a built-in software application called: Remote Desktop Connection
 - Raspberry Terminal: sudo apt-get install xrdp
+- Windows 10 has a built-in software application called: Remote Desktop Connection
 
 -----
 
