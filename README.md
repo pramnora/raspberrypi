@@ -32,7 +32,7 @@ SSH, allows one to log in remotely and control the Raspberry Pi...from any other
 *Method 1...*    
 - Raspberry Terminal: sudo raspi config (allows one to set up SSH)
 - download Putty (allows you to see/operate only the text based terminal)
-- download xming (allows you to see/operated the Windows, as well)
+- download xming (allows you to see/operate the Windows, as well)
 
 *Method 2...*    
 - Raspberry Terminal: sudo apt-get install xrdp
