@@ -38,6 +38,9 @@ SSH, allows one to log in remotely and control the Raspberry Pi...from any other
 - Raspberry Terminal: sudo apt-get install xrdp
 - Windows 10 has a built-in software application called: Remote Desktop Connection
 
+*Method 3...*  
+- download realVNC from: http://www.realvnc.com  (they have videos explaining the procedure)  
+
 -----
 
 ## Links...
