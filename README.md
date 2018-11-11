@@ -23,7 +23,7 @@ Raspberry Pi information
  
 ## SSH/Secure Shell
 
-SSH, allows one to log in remotely from any other computer inside of your own Network.
+SSH, allows one to log in remotely and control the Raspberry Pi...from any other computer inside of your own Network.  
 
 *Method 1...*    
 - Raspberry Terminal: sudo raspi config (allows one to set up SSH)
